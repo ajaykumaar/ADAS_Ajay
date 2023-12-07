@@ -6,5 +6,6 @@ Running the vehicle_classification.py code will
   5) Save the output as a video named 'video1_output_detections.mp4'
 
 - Please run the vehicle_classification.py code from within the yolov7 folder
+  
 - Use the below code inside the yolov7 folder to install the requirements for yolov7 
   !pip install -q -r requirements.txt
